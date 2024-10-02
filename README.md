@@ -18,8 +18,6 @@ This project showcases various design patterns implemented in Java. Design patte
    - Observer Pattern
    - Command Pattern
 
-Each pattern is presented with a simple implementation to demonstrate its use in Java.
-
 ## Getting Started
 
 To run the Java files in this project, you need to have the following installed:
@@ -52,7 +50,7 @@ Follow these steps to run the examples:
 
    ```bash
    javac *.java
-
+   ```bash
    This command will generate .class files for each Java file in the directory.
 
 4. **Run the Main Class**
@@ -61,6 +59,3 @@ Follow these steps to run the examples:
 
    ```bash
    java Main
-
-   
-   
