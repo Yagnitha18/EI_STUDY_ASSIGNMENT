@@ -8,7 +8,6 @@ This project showcases various design patterns implemented in Java. Design patte
 
 1. **Creational Patterns**
    - Factory Pattern
-   - Singleton Pattern
    - Builder Pattern
 
 2. **Structural Patterns**
@@ -37,4 +36,31 @@ Follow these steps to run the examples:
    Open your terminal and clone the repository using the following command:
 
    ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+   git clone https://github.com/Yagnitha18/EI_STUDY_ASSIGNMENT.git
+
+2. **Navigate to the Desired Pattern Directory**
+   
+   Change into the directory of the design pattern you want to run. For example, to run the Builder
+   pattern:
+
+   ```bash
+   cd Creational_Design_Pattern/Builder
+
+3. **Compile the Java Files**
+
+   Compile the java files using the javac command:
+
+   ```bash
+   javac *.java
+
+   This command will generate .class files for each Java file in the directory.
+
+4. **Run the Main Class**
+
+   Execute the Main class using the java command:
+
+   ```bash
+   java Main
+
+   
+   
