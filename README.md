@@ -88,7 +88,7 @@ The **Virtual Classroom Manager** is a terminal-based application designed to ma
 
      - `Assignment.java`
      - `Classroom.java`
-     - LoggerUtil.java`
+     - `LoggerUtil.java`
      - `ClassroomManager.java`
      - `Student.java`
      - `StudentManager.java`
