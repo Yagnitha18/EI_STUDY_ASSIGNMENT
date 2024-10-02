@@ -50,7 +50,7 @@ Follow these steps to run the examples:
 
    ```bash
    javac *.java
-   
+   ```
    This command will generate .class files for each Java file in the directory.
 
 4. **Run the Main Class**
@@ -114,34 +114,51 @@ The **Virtual Classroom Manager** is a terminal-based application designed to ma
 ## Usage
 Once the application is running, you can enter commands in the terminal to manage the virtual classrooms. Here are some examples of commands you can use:
 
-Add Classroom:
+### Add Classroom
 ```bash
 add_classroom <class_name>
---Example:
+```
+**Example:**
 ```bash
 add_classroom Math101
+```
 
-**Add Student:**
+### Add Student
 ```bash
 add_student <student_id> <class_name>
-Example:
+```
+**Example:**
 ```bash
 add_student S123 Math101
+```
 
-Schedule Assignment:
+### Schedule Assignment
 ```bash
 schedule_assignment <class_name> <assignment_details>
-Example:
+```
+**Example:**
 ```bash
 schedule_assignment Math101 Homework1
+```
 
-Submit Assignment:
+### Submit Assignment
 ```bash
 submit_assignment <student_id> <class_name> <assignment_details>
-Example:
+```
+**Example:**
 ```bash
 submit_assignment S123 Math101 Homework1
+```
 
-Exit the Application:
+### Exit the Application
+To stop the application and exit the command prompt, use the following command:
 ```bash
 exit
+```
+You can also stop a running command in the terminal by pressing `Ctrl + C`.
+
+## Installation
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install dependencies (if any).
+4. Run the application.
