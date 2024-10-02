@@ -1,5 +1,5 @@
 # EI_STUDY_ASSIGNMENT
-
+# EXERCISE - 1
 # Design Patterns in Java
 
 ## Introduction
@@ -59,3 +59,6 @@ Follow these steps to run the examples:
 
    ```bash
    java Main
+
+
+# EXERCISE - 2
