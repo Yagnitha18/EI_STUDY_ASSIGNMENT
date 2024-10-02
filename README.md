@@ -50,7 +50,7 @@ Follow these steps to run the examples:
 
    ```bash
    javac *.java
-   ```bash
+   
    This command will generate .class files for each Java file in the directory.
 
 4. **Run the Main Class**
