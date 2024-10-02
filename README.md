@@ -86,15 +86,15 @@ The **Virtual Classroom Manager** is a terminal-based application designed to ma
 2. **Create Java Files**:
    Create the following Java files inside the VirtualClassroomManager directory:
 
-    --Assignment.java
-    --Classroom.java
-    --LoggerUtil.java
-    --ClassroomManager.java
-    --Student.java
-    --StudentManager.java
-    --AssignmentManager.java
-    --CommandProcessor.java
-    --VirtualClassroomManager.java
+     - `Assignment.java`
+     - `Classroom.java`
+     - LoggerUtil.java`
+     - `ClassroomManager.java`
+     - `Student.java`
+     - `StudentManager.java`
+     - `AssignmentManager.java`
+     - `CommandProcessor.java`
+     - `VirtualClassroomManager.java`
 
 ## Compilation and Execution
 
